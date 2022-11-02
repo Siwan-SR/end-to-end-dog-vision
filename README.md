@@ -31,4 +31,4 @@ There are around 10,000+ images in the test set (these images have no labels, be
 * Import TensorFlow Hub ✅
 * Make sure we're using a GPU ✅
 
-**Note:** Project done in course: [Complete Machine Learning & Data Science Bootcamp 2023](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
+**Note:** Project done in course: [Complete Machine Learning & Data Science Bootcamp 2023 by Zero to Mastery](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
